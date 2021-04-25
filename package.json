@@ -1,7 +1,7 @@
 {
   "name": "react-conditionally-render",
   "version": "1.0.0",
-  "description": "",
+  "description": "Reduce mental overhead by wrapping conditional logic in a react component",
   "main": "./dist/index.js",
   "types": "./dist/src/index.d.ts",
   "scripts": {
