@@ -4,6 +4,11 @@
   "description": "Reduce mental overhead by wrapping conditional logic in a react component",
   "main": "./dist/index.js",
   "types": "./dist/src/index.d.ts",
+  "licence": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FredrikOseberg/react-conditionally-render"
+  },
   "scripts": {
     "build": "webpack --mode=production",
     "build-watch": "webpack --watch",
